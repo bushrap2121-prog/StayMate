@@ -1,0 +1,2 @@
+# StayMate
+An accomodation finder 
